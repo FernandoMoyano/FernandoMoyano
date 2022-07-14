@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Fernando 👋
 
 <!--
 **
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div "style=inline_block"><br>
-<img align="center"alt="fer html"height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="fer-html" height="30"width="40" src="https://raw.githubuser.com/devIcons/devIcon/master/Icons/html5/html-original.svg">
 </div>
           
 -->
