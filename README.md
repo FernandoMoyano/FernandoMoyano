@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Fernando Moyano, I'm Front End developer 
+# Hi there 👋 I'm Fernando Moyano, Front End developer 
 
 
 ## I’m currently working as an mentor at Coderhouse  ...
