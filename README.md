@@ -1,7 +1,7 @@
-### Hi there 👋 My name is Fernando Moyano, I'm Front End developer 
+# Hi there 👋 My name is Fernando Moyano, I'm Front End developer 
 
 
-- 🔭 I’m currently working on ...
+## I’m currently working as an mentor at Coderhouse  ...
 
 <link rel="stylesheet" href="devicon.min.css">
 <div "style=inline_block"><br>
