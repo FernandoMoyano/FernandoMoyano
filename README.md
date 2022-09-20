@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Fernando Moyano, Front End developer 
 
 
-## I’m currently working as an mentor at Coderhouse  ...
+## I’m currently working as an mentor at ***Coderhouse***  ...
 
 
 ### Skills
