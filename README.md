@@ -1,12 +1,11 @@
 # Hi there 👋 I'm Fernando Moyano, Front End developer 
-___
 
 
 ## I’m currently working as an mentor at Coderhouse  ...
 
 
 ### Skills
-_
+__
 
 
 <link rel="stylesheet" href="devicon.min.css">
