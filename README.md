@@ -3,7 +3,7 @@
 
 ## I’m currently working as an mentor at ***Coderhouse***  ...
 
----
+
 ### Skills
 
 
