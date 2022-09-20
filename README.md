@@ -5,7 +5,7 @@
 
 
 ### Skills
-***
+---
 
 <link rel="stylesheet" href="devicon.min.css">
 <div "style=inline_block"><br>
