@@ -23,12 +23,12 @@
 ## Contact me
 <div "style=inline_block"><br>
 
-<a href="mailto: fernandomoyano21@gmail.com"  target="_blank">
+<a href="mailto: fernandomoyano21@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 
-<a href="https://www.linkedin.com/in/fernandomoyanofrontenddevelper/"  target="_blank">
+<a href="https://www.linkedin.com/in/fernandomoyanofrontenddevelper/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 	
