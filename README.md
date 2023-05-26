@@ -23,16 +23,17 @@
  
  <img src="https://img.shields.io/badge/HTML5-F10A1F?style=for-the-badge&logo=html5&logoColor=white">HTML5</img>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">CSS3</img>
-  <img src="https://img.shields.io/badge/SASS-bf4080.svg?style=for-the-badge&logo=SASS&logoColor=white">SASS</img>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">BOOTSTRAP</img>
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">MATERIAL UI</img>
+ <img src="https://img.shields.io/badge/SASS-bf4080.svg?style=for-the-badge&logo=SASS&logoColor=white">SASS</img>
+ <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">BOOTSTRAP</img>
+ <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">MATERIAL UI</img>
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">TAILWIND</img>  
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
  <img src="https://img.shields.io/badge/react-10B8E1.svg?style=for-the-badge&logo=react&logoColor=000000">REACT</img>
  <img src="https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">NODE JS</img>
   
   	
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
