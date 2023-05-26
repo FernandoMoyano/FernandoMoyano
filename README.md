@@ -19,10 +19,9 @@
  <img margin="5px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
  <img margin="5px" src="https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">NODE JS</img>
  <img margin="5px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">EXPRESS JS</img>
-  <img margin="5px" src=" https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">MONGO DB</img>
+ <img margin="5px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">MONGO DB</img>
  <img margin="5px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
  
- https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
   
   	                 
 </div>
