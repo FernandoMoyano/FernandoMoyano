@@ -21,7 +21,7 @@
  <img width="40px" height="40px" margin="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">HTML5</img>
+ <img src="https://img.shields.io/badge/HTML5-23CC0000?style=for-the-badge&logo=html5&logoColor=white">HTML5</img>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">CSS3</img>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
