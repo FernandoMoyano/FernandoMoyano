@@ -31,9 +31,10 @@
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
  <img src="https://img.shields.io/badge/react-10B8E1.svg?style=for-the-badge&logo=react&logoColor=000000">REACT</img>
  <img src="https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">NODE JS</img>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">EXPRESS JS</img>
   
   	
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 
 
 
