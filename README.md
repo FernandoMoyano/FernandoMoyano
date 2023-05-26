@@ -23,10 +23,13 @@
  
  <img src="https://img.shields.io/badge/HTML5-F10A1F?style=for-the-badge&logo=html5&logoColor=white">HTML5</img>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">CSS3</img>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">SASS</img>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
  <img src="https://img.shields.io/badge/react-10B8E1.svg?style=for-the-badge&logo=react&logoColor=FFFFFF">REACT</img>
   <img src="https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">NODE JS</img>
+  
+  	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 
