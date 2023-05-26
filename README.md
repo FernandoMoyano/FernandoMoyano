@@ -14,12 +14,15 @@
  <img margin="5px" src="https://img.shields.io/badge/SASS-bf4080.svg?style=for-the-badge&logo=SASS&logoColor=white">SASS</img>
  <img margin="5px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">BOOTSTRAP</img>
  <img margin="5px" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">MATERIAL UI</img>
- <img margin="5px" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-&logoColor=white">TAILWIND</img>  
- <img margin="5px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
- <img margin="5px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
+ <img margin="5px" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-&logoColor=white">TAILWIND</img>
  <img margin="5px" src="https://img.shields.io/badge/react-10B8E1.svg?style=for-the-badge&logo=react&logoColor=000000">REACT</img>
+ <img margin="5px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">REDUX</img>
  <img margin="5px" src="https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">NODE JS</img>
  <img margin="5px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">EXPRESS JS</img>
+  <img margin="5px" src=" https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">MONGO DB</img>
+ <img margin="5px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">GIT</img>
+ 
+ https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
   
   	                 
 </div>
