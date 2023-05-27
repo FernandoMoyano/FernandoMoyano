@@ -5,7 +5,7 @@
 
 
 ## Skills 
- <div "style=inline_block"><br> 
+ <div "style=inline_block">
  
   #### _Front-End_
   
