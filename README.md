@@ -4,7 +4,7 @@
 ## I’m currently working as an mentor at ***Coderhouse***  ...
 
 
-## Skills 
+## __Skills__ 
  <div "style=inline_block">
  
   #### _Front-End_
@@ -33,7 +33,7 @@
   	                 
 </div>
 
-## Contact me
+## __Contact me__
 
 
 <div "style=inline_block"><br>
