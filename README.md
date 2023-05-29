@@ -27,15 +27,13 @@
  
  #### _Database_
  <img margin="10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-  <img margin="10px" src=" https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+ <img margin="10px" src=" https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
  
  #### _Others_
  <img margin="10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
- 
-
- 
-  	                 
+   	                 
 </div>
+
 
 ## 🔗**Contact me**
 
