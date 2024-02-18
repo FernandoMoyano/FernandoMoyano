@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fernando Moyano, ***Full-Stack Developer*** developer.
+# Hi there 👋 I'm Fernando Moyano, ***Full-Stack Developer***.
 
 
 
